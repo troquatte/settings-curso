@@ -1,17 +1,13 @@
-{
-  "workbench.colorTheme": "Dracula",
-  "editor.fontSize": 20,
-  "editor.lineHeight": 24,
-  "editor.formatOnSave": true,
-  "editor.rulers": [
-    80,
-    120
-  ],
-  "editor.tabSize": 2,
-  "editor.renderLineHighlight": "gutter",
-  "terminal.integrated.fontSize": 14,
-  "breadcrumbs.enabled": true,
-  "workbench.iconTheme": "vscode-icons",
-  "window.zoomLevel": 1,
-  "liveServer.settings.donotShowInfoMsg": true
-}
+<h1 align="center">
+  <img src="https://vidafullstack.com.br/wp-content/uploads/2019/08/logo-4.png" alt="" width="150">
+  <br>
+  <p>Baixe os arquivos e seja feliz estudando.</p>
+</h1>
+
+## :custard: Descrição
+
+<p>Arquivo para aula de instalação das ferramentas. (settings.json)</p>
+
+---
+
+Por ♥ Dener Troquatte :wave: [Linkedin!](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog!](https://vidafullstack.com.br/)
