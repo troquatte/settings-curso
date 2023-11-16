@@ -1,8 +1,10 @@
 {
   "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editor.enablePreview": false,
+  // "editor.formatOnSave": true,
   "editor.fontSize": 24,
   "editor.lineHeight": 30,
-  "editor.formatOnSave": true,
   "editor.rulers": [80, 120],
   "editor.tabSize": 2,
   "editor.codeActionsOnSave": {
@@ -11,15 +13,17 @@
   "editor.renderLineHighlight": "gutter",
   "editor.suggestSelection": "first",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "terminal.integrated.fontSize": 22,
-  "workbench.iconTheme": "vscode-icons",
-  "liveServer.settings.donotShowInfoMsg": true,
-  "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true,
+  },
+  "terminal.integrated.fontSize": 22,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.editor.enablePreview": false,
+  "liveServer.settings.donotShowInfoMsg": true,
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
   }
-
 }
